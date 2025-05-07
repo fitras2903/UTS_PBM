@@ -1,0 +1,16 @@
+name: pbm_flutter_3_halaman
+description: A simple Flutter project.
+
+environment:
+  sdk: ">=3.7.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.3.0
+  flutter_adaptive_scaffold: ^0.1.6
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
